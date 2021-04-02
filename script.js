@@ -10,7 +10,7 @@ const wizard = new tm.Wizard({
   classes: [
     {
       name: "White",
-      title: "“Record some wihte objects.",
+      title: "“Record some white objects.",
       description:
         "Hold the button and take at least 20 pictures of white objects."
     },
